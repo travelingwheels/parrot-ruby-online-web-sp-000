@@ -2,5 +2,5 @@
 # returns the phrase
 def parrot(express="Squawk!")
   puts "Pretty bird!" #{express}
-  return " #{express}
+  return "Pretty bird!" #{express}
 end
